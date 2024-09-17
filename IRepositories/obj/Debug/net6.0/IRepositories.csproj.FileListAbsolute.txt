@@ -1,0 +1,15 @@
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\bin\Debug\net6.0\IRepositories.deps.json
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\bin\Debug\net6.0\IRepositories.dll
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\bin\Debug\net6.0\IRepositories.pdb
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\bin\Debug\net6.0\Entities.dll
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\bin\Debug\net6.0\Entities.pdb
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\obj\Debug\net6.0\IRepositories.csproj.AssemblyReference.cache
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\obj\Debug\net6.0\IRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\obj\Debug\net6.0\IRepositories.AssemblyInfoInputs.cache
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\obj\Debug\net6.0\IRepositories.AssemblyInfo.cs
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\obj\Debug\net6.0\IRepositories.csproj.CoreCompileInputs.cache
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\obj\Debug\net6.0\IRepositories.csproj.CopyComplete
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\obj\Debug\net6.0\IRepositories.dll
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\obj\Debug\net6.0\refint\IRepositories.dll
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\obj\Debug\net6.0\IRepositories.pdb
+C:\Users\ext.jsilva\source\repos\Suppliers\IRepositories\obj\Debug\net6.0\ref\IRepositories.dll

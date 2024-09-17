@@ -1,0 +1,15 @@
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\bin\Debug\net6.0\IServices.deps.json
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\bin\Debug\net6.0\IServices.dll
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\bin\Debug\net6.0\IServices.pdb
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\bin\Debug\net6.0\Entities.dll
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\bin\Debug\net6.0\Entities.pdb
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\obj\Debug\net6.0\IServices.csproj.AssemblyReference.cache
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\obj\Debug\net6.0\IServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\obj\Debug\net6.0\IServices.AssemblyInfoInputs.cache
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\obj\Debug\net6.0\IServices.AssemblyInfo.cs
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\obj\Debug\net6.0\IServices.csproj.CoreCompileInputs.cache
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\obj\Debug\net6.0\IServices.csproj.CopyComplete
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\obj\Debug\net6.0\IServices.dll
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\obj\Debug\net6.0\refint\IServices.dll
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\obj\Debug\net6.0\IServices.pdb
+C:\Users\ext.jsilva\source\repos\Suppliers\IServices\obj\Debug\net6.0\ref\IServices.dll

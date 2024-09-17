@@ -1,0 +1,15 @@
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\bin\Debug\net6.0\Entities.dll
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\bin\Debug\net6.0\Entities.pdb
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\ext.jsilva\source\repos\Suppliers\Persistence\obj\Debug\net6.0\ref\Persistence.dll
